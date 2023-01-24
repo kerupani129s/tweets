@@ -21,6 +21,8 @@ readonly SITE_CSS_PARAM
 sed -Ei \
 	-e 's/(["/]site\.css\?)[^"]*/\1'"$SITE_CSS_PARAM"'/g' \
 	./docs/index.html \
+	./docs/games/index.html \
+	./docs/games/rhythm-heaven-fever/index.html \
 	./docs/computer/index.html \
 	./docs/computer/my-third-homebuilt-computer/index.html \
 	./docs/music-game-controllers/index.html \
