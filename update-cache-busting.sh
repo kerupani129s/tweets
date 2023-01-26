@@ -24,6 +24,8 @@ sed -Ei \
 	./docs/games/index.html \
 	./docs/games/tamagotchi-no-furifuri-kagekidan/index.html \
 	./docs/games/rhythm-heaven-fever/index.html \
+	./docs/computer/index.html \
+	./docs/computer/my-third-homebuilt-computer/index.html \
 	./docs/computers/index.html \
 	./docs/computers/my-third-homebuilt-computer/index.html \
 	./docs/music-game-controllers/index.html \
