@@ -22,6 +22,7 @@ sed -Ei \
 	-e 's/(["/]site\.css\?)[^"]*/\1'"$SITE_CSS_PARAM"'/g' \
 	./docs/index.html \
 	./docs/games/index.html \
+	./docs/games/tikutaku-concert-number-3/index.html \
 	./docs/games/tikutaku-concert-number-2/index.html \
 	./docs/games/tikutaku-concert/index.html \
 	./docs/games/tamagotchi-no-furifuri-kagekidan/index.html \
